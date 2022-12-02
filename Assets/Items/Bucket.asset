@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b33188a89ee804b4684f8b1d7e5f378d, type: 3}
+  m_Name: Bucket
+  m_EditorClassIdentifier: 
+  name: Bucket
+  icon: {fileID: 21300000, guid: 5f7667c12a3d74029a6896de8feaf23f, type: 3}
+  icon2: {fileID: 21300000, guid: c92ab47c4874a4e1682a3d0f00ca5c32, type: 3}
+  isFilled: 0
+  audio: {fileID: 8300000, guid: 136b1e4c3552a41b8834f96cd84a0962, type: 3}
+  audio2: {fileID: 8300000, guid: 40aaf9a5b1d42414c9fcb0ded65605ba, type: 3}
